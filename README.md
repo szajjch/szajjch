@@ -10,7 +10,6 @@
 ### Currently working on 👨‍💻
 [![gb_banking](https://github-readme-stats.vercel.app/api/pin/?username=Nyxonn&repo=gb_banking&q=2021&theme=radical)](https://github.com/Nyxonn/gb_banking)
 
-<br />
 
 ### Languages that i'm currently working with 📕
 
