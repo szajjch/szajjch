@@ -1,6 +1,9 @@
 ### Hi, there! :wave:
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Nyxonn&show_icons=true&theme=radical&hide=contribs,issues">](https://metrics.lecoq.io/Nyxonn?template=classic)
+<br />
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7ecyovg77bn8b1b80mbvu3opp&cover_image=true&theme=novatorem&align=right)](https://spotify-github-profile.vercel.app/api/view?uid=7ecyovg77bn8b1b80mbvu3opp&redirect=true)
 
 ## I'm **Nyxon**, self-taught C# Developer and .NET Reverse Engineer from Poland.
 - 👶 I'm 18 
@@ -9,8 +12,6 @@
 
 ### Currently working on 👨‍💻
 [![gb_banking](https://github-readme-stats.vercel.app/api/pin/?username=Nyxonn&repo=gb_banking&q=2021&theme=radical)](https://github.com/Nyxonn/gb_banking)
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7ecyovg77bn8b1b80mbvu3opp&cover_image=true&theme=novatorem&align=right)](https://spotify-github-profile.vercel.app/api/view?uid=7ecyovg77bn8b1b80mbvu3opp&redirect=true)
 
 ### Languages that i'm currently working with 📕
 
