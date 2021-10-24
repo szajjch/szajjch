@@ -10,7 +10,7 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7ecyovg77bn8b1b80mbvu3opp&cover_image=true&theme=novatorem&align=right)](https://spotify-github-profile.vercel.app/api/view?uid=7ecyovg77bn8b1b80mbvu3opp&redirect=true)
 
 ### Currently working on 👨‍💻
-[![gb_banking](https://github-readme-stats.vercel.app/api/pin/?username=Nyxonn&repo=gb_banking&q=2021&theme=radical)](https://github.com/Nyxonn/gb_banking)
+[![Discord-AIO](https://github-readme-stats.vercel.app/api/pin/?username=Nyxonn&repo=Discord-AIO&q=2021&theme=radical)](https://github.com/Nyxonn/Discord-AIO)
 
 ### Languages that i'm currently working with 📕
 
