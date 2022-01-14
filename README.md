@@ -14,16 +14,19 @@
 
 ### Languages that i'm currently working with 📕
 
-<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-<img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/45857590/113528813-1137dd80-95c2-11eb-8192-b2118e99bb05.png" />
-<img align="left" alt="Lua" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" />
-<img align="left" alt="Microsoft .NET" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="C#" width="30px" src="https://user-images.githubusercontent.com/45857590/149463605-b881c82f-904c-4747-b44c-bf0fe7b5e4a3.png" />
+<img align="left" alt="C++" width="30px" src="https://user-images.githubusercontent.com/45857590/149463740-2353c3da-65e3-4c99-8111-18f7fef64a74.png" />
+<img align="left" alt="Lua" width="30px" src="https://user-images.githubusercontent.com/45857590/149463930-a5cace34-a309-419a-b081-d07e686f8ef7.png" />
+<img align="left" alt="JavaScript" width="30px" src="https://user-images.githubusercontent.com/45857590/149464190-823698f3-378c-4896-9161-dabc77b02ad1.png" />
+<img align="left" alt="SQL" width="30px" src="https://user-images.githubusercontent.com/45857590/149464271-9e8facd8-274c-4d7f-a2db-400a3baad77e.png" />
+<img align="left" alt="HTML" width="30px" src="https://user-images.githubusercontent.com/45857590/149464548-00432e48-1b7c-411b-b51f-fde86643ceb2.png" />
+<img align="left" alt="CSS" width="30px" src="https://user-images.githubusercontent.com/45857590/149464550-9c2360fb-8a7e-41fa-9a27-82e09bc58ffa.png" />
 
 <br/>
 
 ### Visitors
+
+
 ![Visitor Count](https://profile-counter.glitch.me/Nyxonn/count.svg)
 
 <div align="center">
