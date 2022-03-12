@@ -9,10 +9,10 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7ecyovg77bn8b1b80mbvu3opp&cover_image=true&theme=novatorem&align=right)](https://spotify-github-profile.vercel.app/api/view?uid=7ecyovg77bn8b1b80mbvu3opp&redirect=true)
 
-### Currently working on 👨‍💻
+### 👨‍💻 Currently working on ⇂
 [![Discord-AIO](https://github-readme-stats.vercel.app/api/pin/?username=Nyxonn&repo=Discord-AIO&q=2021&theme=radical)](https://github.com/Nyxonn/Discord-AIO)
 
-### Languages that i'm currently working with 📕
+### 📕 Languages I have worked with ⇂
 
 <img align="left" alt="C#" width="30px" src="https://user-images.githubusercontent.com/45857590/149463605-b881c82f-904c-4747-b44c-bf0fe7b5e4a3.png" />
 <img align="left" alt="C++" width="30px" src="https://user-images.githubusercontent.com/45857590/149463740-2353c3da-65e3-4c99-8111-18f7fef64a74.png" />
