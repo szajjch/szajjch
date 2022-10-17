@@ -3,7 +3,7 @@
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Nyxonn&show_icons=true&theme=radical&hide=contribs,issues">](https://metrics.lecoq.io/Nyxonn?template=classic)
 
 ## I'm **Daniel**, self-taught C# Developer and .NET Reverse Engineer from Poland.
-- 👶 I'm 19 
+- 👶 I'm 20
 - 👨‍💻 I'm currently working on: [Discord-AIO](https://github.com/Nyxonn/Discord-AIO)
 - 😎🤙 Sup?
 
