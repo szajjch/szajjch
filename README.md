@@ -2,17 +2,10 @@
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=szajjch&show_icons=true&theme=radical&hide=contribs,issues">](https://metrics.lecoq.io/szajjch?template=classic)
 
-## I'm **Daniel**, full-stack developer from Poland.
-- 👶 I'm 20
+## I'm **Daniel**, aspiring full-stack developer from Poland.
+- 👶 I'm 21
 - 👨‍💻 I'm currently working on: [Discord-AIO](https://github.com/szajjch/Discord-AIO)
 - 😎🤙 Sup?
-
-### 🎧 Listening to
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7ecyovg77bn8b1b80mbvu3opp&cover_image=true&theme=novatorem&align=right)](https://spotify-github-profile.vercel.app/api/view?uid=7ecyovg77bn8b1b80mbvu3opp&redirect=true)
-
-### 👨‍💻 Currently working on
-[![Discord-AIO](https://github-readme-stats.vercel.app/api/pin/?username=szajjch&repo=Discord-AIO&q=2021&theme=radical)](https://github.com/szajjch/Discord-AIO)
 
 ### 🛠 What am I working with
 
@@ -28,8 +21,10 @@
 
 <br/>
 
-### 👨‍👩‍👧‍👦 Visitors
+### 🎧 Listening to
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7ecyovg77bn8b1b80mbvu3opp&cover_image=true&theme=novatorem&align=right)](https://spotify-github-profile.vercel.app/api/view?uid=7ecyovg77bn8b1b80mbvu3opp&redirect=true)
 
+### 👨‍👩‍👧‍👦 Visitors
 ![Visitor Count](https://profile-counter.glitch.me/Nyxonn/count.svg)
 
 </div>
