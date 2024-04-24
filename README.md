@@ -4,7 +4,7 @@
 
 ### I'm **Daniel**, aspiring full-stack developer from Poland.
 - 👶 I'm 21
-- 👨‍💻 I'm currently working on: [Discord-AIO](https://github.com/szajjch/Discord-AIO)
+- 👨‍💻 I'm currently working on: [MStudio](https://github.com/szajjch/MStudio)
 - 😎🤙 Sup?
 
 ### 🛠 What am I working with
