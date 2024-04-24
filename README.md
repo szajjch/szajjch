@@ -2,7 +2,7 @@
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=szajjch&show_icons=true&theme=radical&hide=contribs,issues">](https://metrics.lecoq.io/szajjch?template=classic)
 
-## I'm **Daniel**, aspiring full-stack developer from Poland.
+### I'm **Daniel**, aspiring full-stack developer from Poland.
 - 👶 I'm 21
 - 👨‍💻 I'm currently working on: [Discord-AIO](https://github.com/szajjch/Discord-AIO)
 - 😎🤙 Sup?
