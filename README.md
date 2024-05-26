@@ -30,7 +30,8 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
 
-<br/>
+### 🎧 Listening to
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7ecyovg77bn8b1b80mbvu3opp&cover_image=true&theme=novatorem&align=right)](https://spotify-github-profile.vercel.app/api/view?uid=7ecyovg77bn8b1b80mbvu3opp&redirect=true)
 
 ### 👨‍👩‍👧‍👦 Visitors
 [![](https://visitcount.itsvg.in/api?id=szajjch&label=Profile%20Views&color=11&icon=5&pretty=true)](https://visitcount.itsvg.in)
