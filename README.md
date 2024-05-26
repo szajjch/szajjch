@@ -1,23 +1,34 @@
 ### Hi, there! :wave:
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=szajjch&show_icons=true&theme=radical&hide=contribs,issues">](https://metrics.lecoq.io/szajjch?template=classic)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=szajjch&theme=dark&hide_border=true&include_all_commits=false&count_private=true">](https://github-readme-stats.vercel.app/api?username=szajjch&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
 
-### I'm **Daniel**, aspiring full-stack developer from Poland.
+[<img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=szajjch&theme=dark&hide_border=true">](https://github-readme-streak-stats.herokuapp.com/?user=szajjch&theme=dark&hide_border=true)
+
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=szajjch&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact">](https://github-readme-stats.vercel.app/api/top-langs/?username=szajjch&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+
+#### I'm **Daniel**, aspiring full-stack developer from Poland.
 - 👶 I'm 21
 - 👨‍💻 I'm currently working on: [MStudio](https://github.com/szajjch/MStudio)
 - 😎🤙 Sup?
 
-### 🛠 What am I working with
+### 💻 Front-end stack
+![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
 
-<img align="left" alt="C#" width="30px" src="https://github.com/szajjch/szajjch/assets/45857590/fe261426-a550-4b45-a577-249d62045d99.png" />
-<img align="left" alt="Blazor" width="30px" src="https://github.com/szajjch/szajjch/assets/45857590/d5f01a96-c01c-441e-b0cd-abe3e319f66f.png" />
-<img align="left" alt="JavaScript" width="30px" src="https://github.com/szajjch/szajjch/assets/45857590/34b41173-e5e0-4777-beeb-35c2444f4f57.png" />
-<img align="left" alt="SQL" width="30px" src="https://github.com/szajjch/szajjch/assets/45857590/d533476e-a944-48b4-b868-a41f4ed7c5ef.png" />
-<img align="left" alt="HTML" width="30px" src="https://github.com/szajjch/szajjch/assets/45857590/8aad1d99-0ae0-4bd3-bc07-e9415044080c.png" />
-<img align="left" alt="CSS" width="30px" src="https://github.com/szajjch/szajjch/assets/45857590/44ffca45-5c1f-42d4-ab8c-5a30b86c592f.png" />
-<img align="left" alt="Tailwind CSS" width="30px" src="https://github.com/szajjch/szajjch/assets/45857590/66161a6b-ac0c-4023-bc59-5eccfa453692.png" />
-<img align="left" alt="Lua" width="30px" src="https://github.com/szajjch/szajjch/assets/45857590/81ef4991-8a0c-44f5-8003-65709a4a9583.png" />
-<img align="left" alt="Git" width="30px" src="https://github.com/szajjch/szajjch/assets/45857590/30a17937-a140-4b25-8fd8-b0a90ed849a3.png" />
+### 🛠 Back-end stack
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) 
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
 
 <br/>
 
