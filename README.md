@@ -1,4 +1,4 @@
-### Hi, there! :wave:
+### Hi there! :wave:
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=szajjch&theme=dark&hide_border=true&include_all_commits=false&count_private=true">](https://github-readme-stats.vercel.app/api?username=szajjch&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
 
