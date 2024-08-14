@@ -33,7 +33,7 @@
 ### 👨‍👩‍👧‍👦 Visitors
 [![](https://visitcount.itsvg.in/api?id=szajjch&label=Profile%20Views&color=11&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7ecyovg77bn8b1b80mbvu3opp&cover_image=true&theme=novatorem&align=right)](https://spotify-github-profile.vercel.app/api/view?uid=7ecyovg77bn8b1b80mbvu3opp&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=7ecyovg77bn8b1b80mbvu3opp&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=7ecyovg77bn8b1b80mbvu3opp&redirect=true)
 
 
 </div>
